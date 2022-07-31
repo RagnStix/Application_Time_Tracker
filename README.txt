@@ -1,0 +1,1 @@
+This application will time how long you are on a program and will save the application name and time to a json file in a dictionary
